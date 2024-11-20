@@ -61,3 +61,8 @@ O THERRA foi idealizado para mulheres em comunidades rurais e urbanas vulneráve
 - Enfrentam impactos diretos das mudanças climáticas.
 - Têm interesse em práticas agrícolas sustentáveis.
 - Buscam autonomia financeira e capacitação técnica.
+
+Telas do site - Therra
+
+![image](https://github.com/user-attachments/assets/7a32a4fc-dd9a-4e1a-b48a-d5c28042aacf)
+
